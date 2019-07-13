@@ -1,0 +1,35 @@
+{
+  "movies": [{
+    "id": 1,
+    "title": "Ghostbusters",
+    "rated": "PG",
+    "year": "1984",
+    "genre": "Action, Comedy, Fantasy",
+    "director": "Ivan Reitman"
+  }],
+  "songs": [{
+    "id": 1,
+    "title": "Let it go",
+    "artist": "Idina Menzel",
+    "year": "2013"
+  }],
+  "cats": [{
+    "id": 1,
+    "name": "Fred",
+    "breed": "Bengal",
+    "image": "https://cdn2.thecatapi.com/images/12r.gif"
+  }],
+  "dogs": [{
+    "id": 1,
+    "name": "Gretal",
+    "breed": "Terrier, Jack Russell",
+    "image": "",
+    "age": "15"
+  }],
+  "youtube": [{
+    "id": 1,
+    "name": "Rethinking reactivity",
+    "link": "https://www.youtube.com/watch?v=AdNJ3fydeao",
+    "year": "2019"
+  }]
+}
